@@ -1,8 +1,8 @@
 streamlit
-scikit-learn
-pandas
-numpy
 joblib
+numpy
+pandas
+scikit-learn
 transformers
 torch
 tokenizers
